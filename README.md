@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @uuuuuno
-- 👀 I’m interested in html
 - 📫 mail@uuuuuno.ru
