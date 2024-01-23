@@ -4,7 +4,7 @@
 
 <h3 align="left">Я системный администратор, devops-инженер, верстальщик.</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
