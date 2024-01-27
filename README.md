@@ -1,8 +1,8 @@
-<h1 align="left">Привет👋! Я Максим.</h1>
+<h1 align="left">Hello👋! I'm Maxim.</h1>
 
 ###
 
-<h3 align="left">Я системный администратор, devops-инженер, верстальщик.</h3>
+<h3 align="left">I am a system administrator, devops engineer, and front-end developer.</h3>
 
 ---
 
