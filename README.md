@@ -4,8 +4,6 @@
 
 <h3 align="left">I am a system administrator, devops engineer, and front-end developer.</h3>
 
----
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
